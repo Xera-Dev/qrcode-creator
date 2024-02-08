@@ -29,4 +29,4 @@ Pour utiliser le script, il suffit d'exécuter la commande suivante dans le term
 > - Assurez-vous d'avoir les autorisations nécessaires pour créer les QR code.
 > - Le script peut être étendu pour prendre en charge des styles de code QR, taille...
 
-```Auteur: Xera-Dev  |  Version: 1.0  |  Date de Création: 08/02/2024```
+```Auteur: Xera-Dev  |  Version: 1.0  |  Date de Création: 03/06/2023```
