@@ -1,4 +1,4 @@
-#QR Code Generator par Xera-Dev
+# QR Code Generator par Xera-Dev
 
 **Description:** Ce projet consiste à créer un générateur de codes QR en Python. Un code QR (Quick Response) est un type de code-barres en deux dimensions pouvant stocker une variété d'informations, telles que des liens URL, des coordonnées géographiques, des événements calendaires, etc. L'objectif de ce projet est de permettre à l'utilisateur de saisir les données qu'il souhaite encoder dans un code QR, puis de générer le code QR correspondant.
 
