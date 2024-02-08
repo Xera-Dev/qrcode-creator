@@ -21,6 +21,11 @@ Pour utiliser le script, il suffit d'exécuter la commande suivante dans le term
   ```
   python main.py
   ```
+
+# Contribution
+
+Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez soumettre une Pull Request avec vos modifications ou des suggestions d'amélioration.
+
 # Infos
 **Avis de Xera-Dev:**
 "J'ai développé ce script dans le but de créer des code QR pour mes différents sites. N'hésitez pas à l'adopter et à me faire part de vos retours!"
